@@ -374,7 +374,7 @@ This project is licensed under the Apache License 2.0 - see [LICENSE](LICENSE) f
 
 If you find this project helpful, please give it a star! Your support helps drive development.
 
----
+--
 
 **Last Updated**: 2026-07-19
 **Version**: 1.0.0
